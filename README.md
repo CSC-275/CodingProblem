@@ -26,6 +26,8 @@ the player’s picks, and which numbers they matched. The program tells the play
 </ul>
 The program allows the user to play repeatedly if they would like to continue playing.
 
+<img src="KenoUML.PNG" alt="Keno Class Diagram" width="550">
+
 ### Game Interface Prototype Example
 <pre><b>To play Keno, select 10 unique (no repeats) numbers in the range of 1-80.
   
