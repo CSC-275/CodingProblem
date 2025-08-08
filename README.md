@@ -4,7 +4,9 @@
 Keno is a lottery-like gambling game where 20 numbers are randomly selected out of numbers ranging from 1 to 80. 
 Players wager on how many numbers they can match out of the numbers that are randomly generated.
 ## Directions
-Complete the given template which provides an object oriented C++ program that implements the Keno game. You will need to complete the implementation of the Game class as shown in the UML class diagram below.
+Complete the given template which provides an object oriented C++ program that implements the Keno game. You will need to complete the implementation of the <b>Game</b> class as shown in the UML class diagram below.
+
+<img src="KenoUML.png" alt="Keno Class Diagram" width="750">
 
 ### Program Specification
 The completed program will implement the game by prompting the user for 10 numbers they will enter to try and match the 20 random 
@@ -26,7 +28,6 @@ the player’s picks, and which numbers they matched. The program tells the play
 </ul>
 The program allows the user to play repeatedly if they would like to continue playing.
 
-<img src="KenoUML.PNG" alt="Keno Class Diagram" width="550">
 
 ### Game Interface Prototype Example
 <pre><b>To play Keno, select 10 unique (no repeats) numbers in the range of 1-80.
